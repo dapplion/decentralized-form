@@ -55,7 +55,7 @@ In the demo form the submission mechanism is a smart contract deployed in Rinkeb
 
 Please try by yourself at:
 
-https://dapplion.github.io/d4rm/#/form/QmckmTWYsSTgwsgBj45HAqRirC8WNXLo7FRr11tdN6yboY
+https://dapplion.github.io/d4rm/#/QmckmTWYsSTgwsgBj45HAqRirC8WNXLo7FRr11tdN6yboY
 
 I uses a sample at
 
